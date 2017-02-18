@@ -1,1 +1,6 @@
+1d - przechodzi do folderu u¿ytkownika
+cd - przejœcie do innego folderu
 git init - tworzy nowe repozytorium
+git status - sprawdza aktualny stan repozytorium
+git add . - dodaje zmiany do stage
+git commit -m "nazwa commitu" - zapis zmian
